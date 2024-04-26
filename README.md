@@ -1,3 +1,8 @@
 # git_porquesi
 
-# Jose Isaac Ochoa Melendrez
+ Owner: Jose Isaac Ochoa Melendrez
+
+Collaborators:
+
+DarviGaxiola @300820
+
